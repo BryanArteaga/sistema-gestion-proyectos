@@ -1,0 +1,10 @@
+.gitignore
+node_modules/
+*.db
+*.sqlite
+.env
+.DS_Store
+.vscode/
+*.log
+dist/
+build/
